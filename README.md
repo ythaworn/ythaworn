@@ -1,4 +1,4 @@
-<a href="url"><img src="public/yuttapong.jpg" height="150" style='float: left; border-radius: 50%; margin-right: 20px;' ></a>
+<a href="url"><img src="public/yuttapong.png" align="left" height="150"></a>
 
 ## Yuttapong Thawornwattana
 
